@@ -406,4 +406,6 @@ plt.show()
 
 1) All of the drugs used in the trial had an increase in metastatic sites over the course of the study.
 2) All of the drugs used in the trial had a decrease in survival rate over the course of the study.
-3) Only Capomulin had a decrease in tumor volume of the course of the study.
+3) Only Capomulin had a decrease in tumor volume of the course of the study. It was also the most effective in stopping the spread of metastatic sites and had the highest survival rate. It was the most effective  of all the drugs.
+4) Infubril was the second most effective in stopping tumor growth and the spread of metastitic sites. However, It had the worst survival rate of all the drugs. It would be interesting to do more experimentation to see why this was.
+5) Ketapril and the placebo were nearly identical in all metrics.
